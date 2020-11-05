@@ -105,8 +105,6 @@ We used `r cite_r("r-references.bib")` for all our analyses.
 ## https://www.rdocumentation.org/packages/TeachingDemos/versions/2.10/topics/cal
 
 library(TeachingDemos)
-# cal(2020)                                           ## Yearly calendars
-# cal(2021)
 
 ## Colors in 8 digit hex: https://www.quackit.com/css/color/values/css_hex_color_notation_8_digits.cfm
 
@@ -128,15 +126,13 @@ setday <- cal(5,2021)
 
 ```
 
-## Responsibility Calendar (Summer 2021) {#summer20}
-
 ```{r Summer2021, echo=FALSE, warning=FALSE}
 
 cal(6,2021)
+
 cal(7,2021)
 
 ```
-## Responsibility Calendar (Fall 2021) {#fall20}
 
 ```{r Fall2021, echo=FALSE, warning=FALSE}
 
@@ -145,5 +141,14 @@ cal(9,2021)
 cal(10,2021)
 cal(11,2021)
 cal(12,2021)
+
+```
+```{r Spring2022, echo=FALSE, warning=FALSE}
+
+cal(1,2021)
+cal(2,2021)
+cal(3,2021)
+cal(4,2021)
+cal(5,2021)
 
 ```
