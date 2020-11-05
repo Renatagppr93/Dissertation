@@ -12,15 +12,9 @@ author:
       - Conceptualization
       - Writing - Original Draft Preparation
       - Writing - Review & Editing
-  - name          : "Dr. John T. Kulas"
-    affiliation   : "1,2"
-    role:
-      - Writing - Review & Editing
 
 affiliation:
   - id            : "1"
-    institution   : "Montclair State University"
-  - id            : "2"
     institution   : "Montclair State University"
 
 authornote: |
