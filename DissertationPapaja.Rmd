@@ -42,7 +42,7 @@ abstract: |
 keywords          : "keywords"
 wordcount         : "X"
 
-bibliography      : ["r-references.bib"]
+bibliography      : ["r-references.bib", "remote.bib"]
 
 floatsintext      : no
 figurelist        : no
@@ -81,7 +81,8 @@ We report how we determined our sample size, all data exclusions (if any), all m
 
 ## Data analysis
 We used `r cite_r("r-references.bib")` for all our analyses.
-
+ 
+@biron_when_2016
 
 # Results
 
@@ -115,26 +116,16 @@ library(TeachingDemos)
 
 
 setday <- cal(1,2021)                              
-
-
 setday <- cal(2,2021)                             
-
-
 setday <- cal(3,2021)                               
-
-
 setday <- cal(4,2021)                               
-
-
 setday <- cal(5,2021)                              
-
 
 ```
 
 ```{r Summer2021, echo=FALSE, warning=FALSE}
 
 cal(6,2021)
-
 cal(7,2021)
 
 ```
@@ -157,3 +148,4 @@ cal(4,2021)
 cal(5,2021)
 
 ```
+
