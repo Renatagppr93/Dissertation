@@ -25,24 +25,11 @@ authornote: |
 abstract: |
   One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
   
-  Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
-  
-  One sentence clearly stating the **general problem** being addressed by  this particular study.
-  
-  One sentence summarizing the main result (with the words "**here we show**" or their equivalent).
-  
-  Two or three sentences explaining what the **main result** reveals in direct comparison to what was thought to be the case previously, or how the  main result adds to previous knowledge.
-  
-  One or two sentences to put the results into a more **general context**.
-  
-  Two or three sentences to provide a **broader perspective**, readily comprehensible to a scientist in any discipline.
-  
-  <!-- https://tinyurl.com/ybremelq -->
   
 keywords          : "keywords"
 wordcount         : "X"
 
-bibliography      : ["r-references.bib"]
+bibliography      : ["r-references.bib", "References.bib"]
 
 floatsintext      : no
 figurelist        : no
@@ -68,6 +55,26 @@ set.seed(42)
 knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 ```
 
+
+# Introduction
+
+## Introduction of topic 
++ Prior to the 2020 Pandemic, telework was an increasingly common practice in the    U.S, with about ___% of the U.S workforce engaging in remote work at least part    of the time. 
++ How much telework is used prior to pandemic
++ How much it is used now (after the pandemic) 
++ Despite it being offered, reasons why people might not make use of it              (visibility, social isolation, career mobility, culture or manager negative views   of telework)
++ Telework as a tool to help employees’ work-life balance 
++ Mixed findings of outcomes of telework and non-linear relationships such as for    autonomy/control and intensity 
++ Identify the gap in the literature and research I will be addressing 
+
+## In-depth discussion about each construct 
++ Telework 
+    + Theories to explore it 
+
+
+The term telecommuting was first introduced in the 1970’s by Jack Nilles, an engineer for the National Aeronautics and Space Administration (citation) and the director of interdisciplinary research at University of South California. He suggested the use of satellite offices closer to employees’ homes as a way to avoid traffic congestion, pollution, and gas emissions.  Additionally, he claimed telecommuting could potentially lead to decreased levels of stress for employees, and increased productivity (Berthiaume, 2020). Research on the feasibility of this new work arrangement was soon after funded by the federal government, and by 1997, 10,000 federal government employees were working from remote locations (Avery & Zable, 2001). Remote work arrangements later on began to be used by private organizations to address issues with the workforce such as talent sourcing, and as a resource to help employees balance work and family demands (Avery & Zabel, 2001). Advancements in technology facilitated the use of remote work arrangements, especially in the 1980s with the introduction of personalized computers, and in the 1990s with laptops and cellphones (Allen et al., 2015). Another contributing factor to the expanding use of remote work was the increase in knowledge-based jobs, which lend themselves to remote work. 
+
+There were two main acts of legislature that enabled organizations to use remote work arrangements in the late twentieth century. In the 1990’s major revisions to The Clean Air Act (1970) were carried out, which further drove the establishment of remote work arrangements. The Clean Air Act requires states to develop enforceable plans to achieve and maintain air-quality standards. The changes done in the 90s required employers to develop employee commute option programs, the possibility to telecommute could satisfy this requirement (Goluboff, 2001). The second important act of legislature that contributed to the prevalence of remote work was the Americans with Disabilities Act (ADA) in 1990. The ADA required employers to make reasonable accommodations for employees with disabilities, and providing remote work arrangements had the potential to fulfill those requirements (U.S Equal Employment Opportunity Commission, 2003). 
 
 
 # Methods
