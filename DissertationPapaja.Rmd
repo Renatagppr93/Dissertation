@@ -29,11 +29,9 @@ abstract: |
 keywords          : "keywords"
 wordcount         : "X"
 
-<<<<<<< HEAD
-bibliography      : ["r-references.bib", "References.bib"]
-=======
+
 bibliography      : ["r-references.bib", "remote.bib"]
->>>>>>> 0d4d40098d21ba6114dcc262eedb5b967c30e3a9
+
 
 floatsintext      : no
 figurelist        : no
