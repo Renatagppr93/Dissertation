@@ -1,5 +1,5 @@
 ---
-title             : "Super Cool Dissertation"
+title             : "Somthing about Telework?"
 shorttitle        : "Super-Dissertation"
 
 author: 
@@ -124,37 +124,65 @@ library(TeachingDemos)
 ## Colors in 8 digit hex: https://www.quackit.com/css/color/values/css_hex_color_notation_8_digits.cfm
 
 
-setday <- cal(1,2021)                              
-setday <- cal(2,2021)                             
+setday <- cal(1,2021) 
+setday <- cal(2,2021)
+setday(1)
+text(0.5,0.5,"Dissertation\nCommittee")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
 setday <- cal(3,2021)                               
-setday <- cal(4,2021)                               
+setday <- cal(4,2021)
+setday(1)
+text(0.5,0.5,"Have proposal\nready")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
 setday <- cal(5,2021)                              
 
+setday <-cal(6,2021)
+setday <-cal(7,2021)
+
+setday <-cal(8,2021)
+setday(1)
+text(0.5,0.5,"Comp\nExams")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <-cal(9,2021)
+setday(1)
+text(0.5,0.5,"Have proposal\nready")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(25)
+text(0.5,0.5,"Proposal approval\nform to\nGradschool")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <-cal(10,2021)
+setday <-cal(11,2021)
+setday <-cal(12,2021)
+
 ```
 
-```{r Summer2021, echo=FALSE, warning=FALSE}
 
-cal(6,2021)
-cal(7,2021)
-
-```
-
-```{r Fall2021, echo=FALSE, warning=FALSE}
-
-cal(8,2021)
-cal(9,2021)
-cal(10,2021)
-cal(11,2021)
-cal(12,2021)
-
-```
 ```{r Spring2022, echo=FALSE, warning=FALSE}
 
-cal(1,2021)
-cal(2,2021)
-cal(3,2021)
-cal(4,2021)
-cal(5,2021)
+setday <-cal(1,2022)
+
+setday <-cal(2,2022)
+
+setday <-cal(3,2022)
+setday(1)
+text(0.5,0.5,"Defense date\nsubmitted to\nGradschool")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <-cal(4,2022)
+setday(1)
+text(0.5,0.5,"Defend dissertation\nby this date")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(2)
+text(0.5,0.5,"Submit Approval\nto Gradschool")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <-cal(5,2022)
 
 ```
 
