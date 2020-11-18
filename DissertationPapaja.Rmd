@@ -139,6 +139,10 @@ rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 setday <- cal(5,2021)                              
 
 setday <-cal(6,2021)
+setday(30)
+text(0.5,0.5, "Out of Money")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+
 setday <-cal(7,2021)
 
 setday <-cal(8,2021)
@@ -171,12 +175,12 @@ setday <-cal(2,2022)
 setday <-cal(3,2022)
 setday(1)
 text(0.5,0.5,"Defense date\nsubmitted to\nGradschool")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
 setday <-cal(4,2022)
 setday(1)
 text(0.5,0.5,"Defend dissertation\nby this date")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
 setday(2)
 text(0.5,0.5,"Submit Approval\nto Gradschool")
