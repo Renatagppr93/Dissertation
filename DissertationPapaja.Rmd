@@ -30,7 +30,7 @@ keywords          : "keywords"
 wordcount         : "X"
 
 
-bibliography      : ["r-references.bib", "remote.bib", "engage.bib"]
+bibliography      : ["r-references.bib", "remote.bib", "Dissertation.bib"]
 
 
 floatsintext      : no
