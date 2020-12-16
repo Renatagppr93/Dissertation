@@ -148,7 +148,10 @@ setday(1)
 text(0.5,0.5,"Have proposal\nready")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
-setday <- cal(5,2021)                              
+setday <- cal(5,2021)
+setday(31)
+text(0.5,0.5,"Comp proposal & Reading list")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <-cal(6,2021)
 setday(30)
@@ -158,7 +161,12 @@ rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 setday <-cal(7,2021)
 
 setday <-cal(8,2021)
+
 setday(1)
+text(0.5,0.5,"10p proposal")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(30)
 text(0.5,0.5,"Comp\nExams")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
@@ -167,11 +175,20 @@ setday(1)
 text(0.5,0.5,"Have proposal\nready")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
+setday(14)
+text(0.5,0.5,"Written Comp")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+
 setday(25)
 text(0.5,0.5,"Proposal approval\nform to\nGradschool")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <-cal(10,2021)
+setday(14)
+text(0.5,0.5,"Oral defense")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
 setday <-cal(11,2021)
 setday <-cal(12,2021)
 
