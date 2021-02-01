@@ -78,6 +78,25 @@ The term telecommuting was first introduced in the 1970’s by Jack Nilles, an e
 
 There were two main acts of legislature that enabled organizations to use remote work arrangements in the late twentieth century. In the 1990’s major revisions to The Clean Air Act (1970) were carried out, which further drove the establishment of remote work arrangements. The Clean Air Act requires states to develop enforceable plans to achieve and maintain air-quality standards. The changes done in the 90s required employers to develop employee commute option programs, the possibility to telecommute could satisfy this requirement [@us_epa_1990_2015]. The second important act of legislature that contributed to the prevalence of remote work was the Americans with Disabilities Act (ADA) in 1990. The ADA required employers to make reasonable accommodations for employees with disabilities, and providing remote work arrangements had the potential to fulfill those requirements (U.S Equal Employment Opportunity Commission, 2003). 
 
+# Research Question and Review Topic
+
+Remote worker wellbeing and effectiveness and how this relates to work-nonwork balance and experiencing social isolation.
++ I think we could easily tie this into the JD-R theory and it's probably broad enough for the review (comps). 
+
+Constructs to consider:
++ Work-nonwork balance
++ Social Isolation
++ Use of technology
++ Remote work effectiveness
++ Individual perspective on: demands and resources as well as work and nonwork balance?
+
+# Things to consider for Review: 
+
++ interdisciplinary take encompassing other fields and journals
++ Chronological order (pre-covid and post-covid)
++ Perceptions on how X factors of work have changed due to the drastic transition to remote work
+
+
 # NOTES: 
 
 + "Data from these surveys
