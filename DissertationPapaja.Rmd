@@ -80,8 +80,10 @@ There were two main acts of legislature that enabled organizations to use remote
 
 # Research Question and Review Topic
 
-Remote worker wellbeing and effectiveness and how this relates to work-nonwork balance and experiencing social isolation.
+> *Research Question 1*: Remote worker wellbeing and effectiveness and how this relates to work-nonwork balance and experiencing social isolation.
 + I think we could easily tie this into the JD-R theory and it's probably broad enough for the review (comps). 
+
+> *Research Question 2*: Are perceptions of characteristics (such as technological embededness) differentially viewed as *resources* or *demands* by different groups of remote workers?
 
 Constructs to consider:
 + Work-nonwork balance
