@@ -161,15 +161,20 @@ setday(1)
 text(0.5,0.5,"Dissertation\nCommittee")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
+setday(28)
+text(0.5,0.5,"Review topic\nto share w/committee")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+
+
 setday <- cal(3,2021)                               
 setday <- cal(4,2021)
 setday(1)
-text(0.5,0.5,"Have proposal\nready")
+text(0.5,0.5,"Proposal outline\nand reading list")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <- cal(5,2021)
 setday(31)
-text(0.5,0.5,"Comp proposal & Reading list")
+text(0.5,0.5,"Comp proposal \n& Reading list")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <-cal(6,2021)
